@@ -5,7 +5,7 @@ A Retropie extension deticated to the RomTaStick.
 ## Installation
 
     cd /home/pi
-    git clone https://readonly:zBDT2sX2yU4Dydg3@git.grousset.fr/RomTaStick/romtastick-scripts.git RomTaStick
+    git clone https://github.com/zippy1978/RomTaStick.git RomTaStick
     cd RomTaStick
     ./install.sh
 
