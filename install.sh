@@ -11,6 +11,7 @@ sudo pip install spidev
 sudo pip install requests
 sudo pip install transitions
 sudo pip install Adafruit_ILI9341
+sudo pip install Adafruit-GPIO
 
 # Copy scripts
 cp menu/romtastick.sh /home/pi/RetroPie/retropiemenu
